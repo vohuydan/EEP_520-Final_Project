@@ -15,6 +15,6 @@ To install the project, download the file from github and using Docker, run the 
 docker run -p80:80 -p8765:8765 -v /C/Users/Dan/Desktop/Code/520-Assignments/Project:/source -it klavins/enviro:v1.61 bash
 ```
 
-Note: Change the path to match where your file is located. Also, project rubric stated to use ```bash alpha bash``` instead of ```bash v1.61 bash```
+Note: Change the path to match where your file is located. Also, project rubric stated to use ```alpha bash``` instead of ```v1.61 bash```
 
 ## Running Project
