@@ -67,6 +67,17 @@ make
 
 ## Running Project
 
+To run the project, execute the following code and on your browser, go to :http://localhost
+
+```
+esm start
+enviro
+```
+
+In the browser, you should now see the robot moving towards the end of the maze, which is the yellow square. In an attempt to randomize the maze, the starting and ending positions can be modified. Inside ```config.json``` under ```agents``` change the x and y positions of the block and omni to any location. The robot shall then move through the maze to find the end.
+
+
+
 ## References
 
 The logic and algorithm for the robot to navigate through the maze was all created by me. I did use the examples in the Enviro Github(https://github.com/klavinslab/enviro) as a reference when creating this project as well as lecture notes. No other resources were used.
