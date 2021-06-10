@@ -27,7 +27,7 @@
             "definition": "defs/omni.json",
             "style": { "fill": "black", "stroke": "black" },
             "position": {
-                "x": 100, 
+                "x": -300, 
                 "y": -100, 
                 "theta": 0
             }
@@ -360,7 +360,7 @@
             ]
         },
         {
-            "style": { "fill": "orange", "stroke": "none" },
+            "style": { "fill": "gray", "stroke": "none" },
             "shape": [
                 { "x": 300, "y": -60 },
                 { "x": 310,  "y": -60 },
