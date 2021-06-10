@@ -83,4 +83,4 @@ In the browser, you should now see the robot moving towards the end of the maze,
 The logic and algorithm for the robot to navigate through the maze was all created by me. I did use the examples in the Enviro Github(https://github.com/klavinslab/enviro) as a reference when creating this project as well as lecture notes. No other resources were used.
 
 ## License
-MIT License
+MIT License. See LICENSE
