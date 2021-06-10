@@ -43,7 +43,9 @@ Although not very criticle, multiple times throughout working on this project, i
 
 
 
+### Known Problem
 
+At this corner, the robot "sees" the endpoint but not the highlighted edge of the wall. There is currently no algorithm in place to move around edges if the endpoint is in the line of sight of the sensor.
 
 ![image](https://user-images.githubusercontent.com/77210680/121453803-98088e00-c956-11eb-80de-3af684e960dc.png)
 
